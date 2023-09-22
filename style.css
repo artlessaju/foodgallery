@@ -24,12 +24,12 @@ header{
         color: beige;
         text-align: center;
         padding-top: 25px;
-        font-family: 'Oswald', sans-serif;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
  }
 
  nav{
 
-    background-color: rgb(135, 219, 9);
+    background-color: red;
 height: 60px;
 display: flex;
 align-items: center;
